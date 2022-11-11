@@ -2,7 +2,9 @@
 export const GifApp = () => {
   return (
     <>
-      <h1>GifApp</h1>
+      <h1 className="text-5xl">GifApp</h1>
+
+
     </>
   )
 }
